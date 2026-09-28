@@ -251,6 +251,7 @@ A curated list of useful websites you can use directly from your browser: no dow
 ### File Tools
 
 - [ILoveIMG](https://iloveimg.com): Online image editing tools for resizing, compressing, and converting
+- [FileOnTap HEIC to PNG Converter](https://fileontap.com/heic-to-png/): Convert HEIC images to PNG for free with no signup or upload; processing runs locally in your browser.
 - [ILovePDF](https://ilovepdf.com): Complete PDF toolset for merging, splitting, and editing PDFs
 - [PDF Candy](https://pdfcandy.com): Free online PDF tools for editing and converting
 - [Free PDF Convert](https://freepdfconvert.com): Convert files to and from PDF format
