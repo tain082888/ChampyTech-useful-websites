@@ -591,3 +591,4 @@ By utilizing this repository, you acknowledge that this project is not associate
 ## 🎫 License
 
 This project is licensed under the [MIT License](LICENSE.md).
+- [KDFTek Tools](https://kdftek.com/tools/) — 200+ free tools usable directly in the browser: calculators, PDF tools, image tools, converters, generators. No signup.
