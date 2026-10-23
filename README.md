@@ -579,6 +579,7 @@ A curated list of useful websites you can use directly from your browser: no dow
 - [Calculator Soup](https://www.calculatorsoup.com): Online calculators with formulas, explanations, and worked examples
 - [Math Celebrity](https://www.mathcelebrity.com): Homework help calculator with step-by-step solutions and explanations
 - [Calculator Online Org](https://www.calculator-online.org): Free online calculators for math, finance, health, and conversions
+- [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator): Free U.S. roof replacement planning calculator using roof size, material, tear-off, and local labor inputs
 
 ## 🙏 Contributing
 
