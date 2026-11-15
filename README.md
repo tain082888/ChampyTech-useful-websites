@@ -532,6 +532,7 @@ A curated list of useful websites you can use directly from your browser: no dow
 - [AudioToolset](https://audiotoolset.com): Comprehensive suite of online audio editing and processing tools
 - [GetWoord](https://www.getwoord.com/): Text-to-speech converter for generating audio from written content
 - [Podcastle](https://podcastle.ai/): AI-powered platform for creating and editing professional podcasts
+- [No Stairs Please](https://nostairsplease.com/): Independent live music venue directory covering 22,500+ venues across the US and Canada with booking contacts and load-in details
 
 ### Generators
 
