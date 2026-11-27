@@ -286,6 +286,7 @@ A curated list of useful websites you can use directly from your browser: no dow
 - [The HTML & CSS Security Checklist](https://www.sqreen.com/checklists/html-css-security-checklist/): Security guidelines for HTML and CSS development
 - [OpenStreetMap](https://www.openstreetmap.org/): A collaborative world map created by people like you and free to use under an open license
 - [paintmaps.com](https://paintmaps.com): Online map graphics generation tool for creating custom map visualizations and charts
+- [StagePeek](https://stagepeek.live): Interactive 2D/3D concert and sports arena seat-view simulator covering 201 venues worldwide with 1x–10x zoom (no login required for free preview)
 - [Wikibooks](https://en.wikibooks.org): A giant collection of online textbooks that anyone can edit
 - [Project Gutenberg](https://www.gutenberg.org): A huge database of tens of thousands of free downloadable books (you can read them online, too)
 - [Student.com](https://student.com): World's largest marketplace for international student housing worldwide
